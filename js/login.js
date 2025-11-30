@@ -15,3 +15,4 @@ qs('#login').onclick = ()=>{
 const email = qs('#email').value; const pass = qs('#pass').value;
 if(DB.login(email, pass)){alert('Logged in'); location.href='profile.html'} else alert('Invalid credentials');
 }
+
