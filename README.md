@@ -219,39 +219,16 @@ Each page has a separate CSS file.
 | login.js    | JS-rendered login form + DB login |
 | signup.js   | Save user + auto login            |
 
----
-
-# 📦 Installation
-
-Clone the repository:
-
-```
-git clone https://github.com/YOUR-USERNAME/autowheel.git
-cd autowheel
-```
 
 Open:
 
 ```
 index.html
-```
 
----
-
-# 🚀 Deploy on GitHub Pages
-
-1. Go to **Settings**
-2. Open **Pages**
-3. Select:
-
-   * Branch: **Main**
-   * Folder: **Root**
-4. Save
-
-Your site will appear at:
+Website will appear at:
 
 ```
-https://YOUR-USERNAME.github.io/autowheel/
+https://hashimnagi.github.io/ICT-PROJECT-AUTO-WHEEL-WEBSITE/
 ```
 
 ---
